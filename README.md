@@ -1,1 +1,1 @@
-Math Library program that should easily run once both files are stored in the same folder. Run the "finalProject" file, not mathLib. 
+Math Library program that should easily run once both files are stored in the same folder. Project required proper use of .globl so it had to be 2 separate files, 1 to call the various functions and the other to run said functions. Run "finalProject" file, not mathLib. 
